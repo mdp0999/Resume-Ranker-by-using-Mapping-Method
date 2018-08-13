@@ -5,3 +5,4 @@ create two doc files
         Data in each file must be in word by word in doc
         
 first Run resume_parser and run sorting.py
+keep all the resumes in current working directory
