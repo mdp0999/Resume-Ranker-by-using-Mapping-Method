@@ -4,7 +4,7 @@ import glob,os
 import sys
 
 Files = []
-extensions = ['*.docx','*.doc','*.rtf']
+extensions = ['*.doc','*.docx','*.rtf']
 software = []
 
 
